@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [AdminApp] AUTHORIZATION [dbo]
+GO

@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [TransUnion] AUTHORIZATION [dbo]
+GO
